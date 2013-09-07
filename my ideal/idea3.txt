@@ -1,0 +1,17 @@
+using words recognization to control your army.your troops comprise severl kinds of 
+soldiers, such as archars, lancers and rungers.the whole army should be in a battle form.
+when you command, you could use your mouse and keyboard.but optionally, you could 
+alse use your sound to command.the sene will be like this:
+your want your archers to shoot the north enemy, and you just say: archers to select
+and say attack noth rungers to make them shoot at the enemy's rungers on the north.
+in addition to select your army by calling their type and position, you can also 
+derictly call the general's name to select his troops whaterver the kind of the troop
+is he leading and no matter where he is.
+attack is the same. you can give the name of an enemy general or you just give the direction
+to march or to attack.
+this should be  supported by artificial intelegence so that the npc can undertand your
+command from few simple words like "attack" or "move". npc should determine where or who is
+the target that you realy want to locate.it needs npc to take the battle situation into 
+account to make the final decision.
+
+                   13/9/7 hhj
